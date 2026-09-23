@@ -6,10 +6,10 @@ This repository only hosts the official installers. The links below always point
 
 | Platform | Download |
 |---|---|
-| Windows 10+ (64-bit) | [Arcade-Standalone-Instrument-Windows-Setup.exe](https://github.com/Dimea-Arcade/Arcade-Standalone-Instrument/releases/latest/download/Arcade-Standalone-Instrument-Windows-Setup.exe) |
-| macOS (Universal) | [Arcade-Standalone-Instrument-macOS.zip](https://github.com/Dimea-Arcade/Arcade-Standalone-Instrument/releases/latest/download/Arcade-Standalone-Instrument-macOS.zip) |
+| Windows 10+ (64-bit) | [Arcade-Standalone-Instrument-Windows-Setup.exe](https://github.com/Dimea-Arcade/Arcade-Standalone-Instrument-Downloads/releases/latest/download/Arcade-Standalone-Instrument-Windows-Setup.exe) |
+| macOS (Universal) | [Arcade-Standalone-Instrument-macOS.zip](https://github.com/Dimea-Arcade/Arcade-Standalone-Instrument-Downloads/releases/latest/download/Arcade-Standalone-Instrument-macOS.zip) |
 
-All versions: [Releases](https://github.com/Dimea-Arcade/Arcade-Standalone-Instrument/releases)
+All versions: [Releases](https://github.com/Dimea-Arcade/Arcade-Standalone-Instrument-Downloads/releases)
 
 ## Try before you buy
 
